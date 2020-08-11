@@ -11,6 +11,6 @@ Meu nome é Tábata Baesso, Técnica em Informática pelo COTEC-UNESP e graduand
 
 - 👩🏻‍💻 Atualmente: Analista desenvolvedora na **LIAX Tecnologia da Informação**
 - 💙 Curto muito: Desenvolvimento mobile, seja ele híbrido ou nativo
-- 📖 Estudando: Node.js, React.js e React Native
+- 📖 Estudando: Typescript, Node.js, React.js e React Native
 
 > :octocat: [Alguns dos meus projetos](https://tabaesso.github.io/)
