@@ -13,3 +13,10 @@ I am computing technique by technical school from UNESP and I currently study IT
 - 📖 Studying: Typescript, Node.js, React.js and React Native
 
 > :octocat: [Some of my projects](https://tabaesso.github.io/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabaesso&show_icons=true&count_private=true&theme=radical&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabaesso&layout=compact&theme=radical" />
+</a>
