@@ -8,7 +8,7 @@
 
 I am computing technique by technical school from UNESP and I currently study IT Management at FATEC college.
 
-- 👩🏻‍💻 Work: Analyst developer at **LIAX Tecnologia da Informação**
+- 👩🏻‍💻 Work: Analyst developer at **SMT IT Solutions**
 - 💙 Love it: Mobile and Back-end development
 - 📖 Studying: Typescript, Node.js, React.js and React Native
 
