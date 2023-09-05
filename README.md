@@ -6,11 +6,11 @@
 
 ## Hello human! 👽
 
-I am computing technique by technical school from UNESP and I currently study IT Management at FATEC college.
+I am a IT manager by FATEC and I currently study Software Architecture at PUC Minas.
 
-- 👩🏻‍💻 Work: Software developer at **SMT IT Solutions**
+- 👩🏻‍💻 Work: Tech lead at **SMT IT Solutions**
 - 💙 Love it: Mobile and Back-end development
-- 📖 Studying: Typescript, Node.js, React.js and React Native
+- 📖 Studying: NestJS, Docker, AWS
 
 > :octocat: [Some of my projects](https://tabaesso.github.io/)
 
