@@ -10,10 +10,6 @@ I am a IT manager by FATEC and I currently study Software Architecture at PUC Mi
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabaesso&theme=dracula" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabaesso&theme=dracula" />
 </div>
-<div>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabaesso&theme=dracula" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabaesso&theme=dracula&utcOffset=-3" />
-</div>
 <div />
 <div>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabaesso&theme=dracula" width="685px"/>
